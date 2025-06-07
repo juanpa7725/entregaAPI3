@@ -1,0 +1,6 @@
+@_3er_entregable_HostAddress = http://localhost:5209
+
+GET {{_3er_entregable_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
